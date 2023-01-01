@@ -1,0 +1,7 @@
+RuleId,Priority,Filter1,Filter2,Filter3,Filter4,OutputValue
+1,80,AAA,<ANY>,CCC,DDD,8
+2,10,<ANY>,<ANY>,AAA,<ANY>,1
+3,70,BBB,<ANY>,CCC,<ANY>,7
+4,100,AAA,BBB,CCC,<ANY>,10
+5,50,CCC,AAA,<ANY>,CCC,5
+6,0,<ANY>,<ANY>,<ANY>,<ANY>,0
